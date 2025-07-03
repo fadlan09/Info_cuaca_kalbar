@@ -10,7 +10,7 @@ st.set_page_config(page_title="Prakiraan Cuaca Wilayah Indonesia", layout="wide"
 
 st.title("📡 Global Forecast System Viewer Wilayah KALBAR (Realtime via NOMADS)")
 st.header("Web Hasil Pembelajaran Pengelolaan Informasi Meteorologi")
-st.subheader("UAS a.n Ahmad Fadlan :sunglasses:")
+st.subheader("UAS a.n Ahmad Fadlan 😏")
 
 @st.cache_data
 def load_dataset(run_date, run_hour):
